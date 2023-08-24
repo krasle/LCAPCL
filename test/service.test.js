@@ -1,0 +1,1 @@
+const test_customer_logic = require('./code/test-customer-logic');
