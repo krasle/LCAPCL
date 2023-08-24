@@ -1,0 +1,6 @@
+ID;firstName;lastName;email;totalPoints;totalPurchaseValue;numberOfPurchases;redeemedPoints
+83fd776d-e8a6-43c0-91a4-cd0359e49755;John;Doe;johndoe@example.com;100;500.00;5;50
+c4d3e8e4-2436-4fc5-b797-a05b79bf324c;Jane;Smith;janesmith@example.com;200;1000.00;10;100
+3463383f-1b0a-4754-a69e-ddaa3857bc37;Michael;Johnson;michaeljohnson@example.com;150;750.00;7;75
+f76780dc-ccf2-4b8d-a201-a5bd35f02e6a;Emily;Davis;emilydavis@example.com;50;250.00;3;25
+ba5759aa-261e-4421-8592-ac1c8e98a836;David;Wilson;davidwilson@example.com;300;1500.00;15;150
